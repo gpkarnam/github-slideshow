@@ -22,8 +22,6 @@ Watch tutorial on Youtube
     17. give name as gp-git-key
     18. Your identification has been saved in gp-git-key
     Your public key has been saved in gp-git-key.pub
-    The key fingerprint is:
-    SHA256:KRt4cPQtp+3dPFEN82RxfIj5NSbzyuJIppOexEgloek skguruprasad@gmail.com
     19. $ ls | grep gp-git-key
     gp-git-key
     gp-git-key.pub
@@ -31,7 +29,7 @@ Watch tutorial on Youtube
     gp-git-key.pub ==> public key, it is to be uploaded to the github account. Public key is ok to be shared.
     21. copy the public key
     cat gp-git-key-pub
-    removed reference to pub
+    Removed cat of pubkey
     22. goto github repo, settings, ssh and gpg keys, add ssh key
     23. Enable ssh on local machine
     https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
