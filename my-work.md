@@ -31,8 +31,7 @@ Watch tutorial on Youtube
     gp-git-key.pub ==> public key, it is to be uploaded to the github account. Public key is ok to be shared.
     21. copy the public key
     cat gp-git-key-pub
-    $ cat gp-git-key.pub
-    ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC+DtK1J2coCJWf4TYOKG3K5lhZrH3a0jHGPTkzdmPOtVq+U8hxVzGX2c1LD1qJ2tuRTiQhsAZUy1VHI+FsLeepe6Q2h+LyS/g7BXifrn87v0zRcUI1mPruAZuJlJpfLs12TkHolZfTjV7A5u5RHpYlGmjN6NH0QvjRRln5LVtsxWWspYcYgxd/3wivV9Da4fLVnWwjyY2goaqQsxW/M8CnH7JdK4HkzVaO0rtdCuGlAL5b6WGTv+/XkvxmxcHFNwIXyTc0KZtAxcWxdRjDp3kGXbvEho887Z2fA7t0xiHCIUrWxCxXKl5pDDqKP6Yks6DWDlvjS3nu8OLxlHhbtOqRkPA7C7HuO3jVETitSnhElQbac2xphQN3kYgXz3JLbfxMwONa5gTz1P/VVw9J/ll6J1oMTuEkTrQDpR9En0/aFvn4DGPpvUik7ZX4e++Z5Q3gqFGcm4rmG+Vo9klvMShFn5tbwXJiRIe4npqRE0GQgc93WudWQ3z/d+nyIdsvg77B99vIkUfu07ZGBiC8v2M2cD6f5wsCUQMVZyHYynl+Md85nVlBta/WL1Zo+2sM0qrKhj2fXGOpyGJAQWimMNQJD0cZsB7TUm0hhGUvXa+1YE07w/MObD05K7cHRycLJ+FLv2T8T4Xh0KiisdLNaG5Oq0X2LjQCNE0frFam7woNDQ== skguruprasad@gmail.com
+    removed reference to pub
     22. goto github repo, settings, ssh and gpg keys, add ssh key
     23. Enable ssh on local machine
     https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
